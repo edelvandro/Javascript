@@ -57,5 +57,4 @@ carro,
 palavra, 
 dia, 
 valor; 
-
 console.log(nome, idade, comidaFavorita,cor,carro,palavra,dia,valor);
